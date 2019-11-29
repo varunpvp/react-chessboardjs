@@ -1,5 +1,5 @@
 {
-  "name": "react-chessboardjs",
+  "name": "@varunpvp/react-chessboardjs",
   "version": "1.0.0",
   "description": "A React component for chessboardjs",
   "main": "index.js",
@@ -28,5 +28,6 @@
     "jquery": "^3.4.1",
     "react": "^16.12.0",
     "shortid": "^2.2.15"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
