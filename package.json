@@ -1,0 +1,32 @@
+{
+  "name": "react-chessboardjs",
+  "version": "1.0.0",
+  "description": "A React component for chessboardjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpvp/react-chessboardjs.git"
+  },
+  "keywords": [
+    "chess",
+    "react",
+    "chessboard",
+    "chessboardjs",
+    "reacjs",
+    "javascript"
+  ],
+  "author": "Varun Pujari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunpvp/react-chessboardjs/issues"
+  },
+  "homepage": "https://github.com/varunpvp/react-chessboardjs#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "react": "^16.12.0",
+    "shortid": "^2.2.15"
+  }
+}
