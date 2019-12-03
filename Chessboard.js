@@ -61,7 +61,12 @@ export default class Chessboard extends React.Component {
         delete attrs['config']
         delete attrs['chessboardRef']
 
-        return <div id={this.id} {...attrs}  ></div>
+        const props = {
+            id: this.id,
+            ...attrs
+        }
+
+        return React.createElement('div', props, null)
     }
 
 }

@@ -1,6 +1,6 @@
 {
   "name": "@varunpvp/react-chessboardjs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React component for chessboardjs",
   "main": "index.js",
   "scripts": {
