@@ -1,1 +1,1 @@
-export default require('./Chessboard')
+export default require('./Chessboard').default

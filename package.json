@@ -29,5 +29,7 @@
     "react": "^16.12.0",
     "shortid": "^2.2.15"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
